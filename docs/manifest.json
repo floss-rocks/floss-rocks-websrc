@@ -1,0 +1,6 @@
+{
+  "short_name": "Floss.Rocks",
+  "name": "Floss.rocks",
+  "start_url": "./index.html",
+  "display": "standalone"
+}
