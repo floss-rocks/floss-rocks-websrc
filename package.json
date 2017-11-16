@@ -2,7 +2,7 @@
   "name": "floss.rocks",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://floss.rocks",
+  "homepage": "https://www.floss.rocks",
   "dependencies": {
     "react": "^16.1.0",
     "react-dom": "^16.1.0",
@@ -12,7 +12,7 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "rm -rf build/* && react-scripts build",
+    "build": "mv build/.git git_build && react-scripts build && mv git_build build/.git",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject"
   }

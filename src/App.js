@@ -40,8 +40,8 @@ const Navbar = () => (
     <div id="navMenu" className="navbar-menu">
       <div className="navbar-start">
         <Link className="navbar-item" to="/">Home</Link>
-        <a className="navbar-item" href="https://www.github.com">Fork it</a>
-        <a className="navbar-item" href="https://www.github.com">Suggest a project</a>
+        <a className="navbar-item" href="https://github.com/floss-rocks/floss-rocks-websrc">Fork it</a>
+        <a className="navbar-item" href="https://github.com/floss-rocks/floss-rocks-websrc/wiki/Suggest-a-new-project">Suggest a project</a>
       </div>
     </div>
   </nav>
@@ -53,10 +53,18 @@ const Home = () => (
     <div className="hero-body">
       <div className="container has-text-centered">
         <div className="column is-6 is-offset-3">
-          <h1 className="title">Coming Soon</h1>
+          <h1 className="title">
+            <div>
+              <p><i className="fa fa-code-fork fa-4x"></i></p>
+              <p>Floss.rocks</p>
+            </div>
+          </h1>
           <h2 className="subtitle">
-             $this is the best software platform for running an internet business. We handle billions of dollars every year for forward-thinking businesses around the world.
+             The best way to find a new floss project to follow and contribuite.
           </h2>
+          <a href="/random" className="button is-info">
+            Next Project <i className="fa fa-arrow-right"></i>
+          </a>
         </div>
       </div>
     </div>

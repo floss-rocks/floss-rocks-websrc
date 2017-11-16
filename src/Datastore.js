@@ -76,7 +76,8 @@ const Datastore = [
   "CMU-Perceptual-Computing-Lab/openpose", "uber/RIBs", "xxhomey19/nba-go",
   "phanan/koel", "CachetHQ/Cachet", "google/tangent",
   "Bogdanp/dramatiq", "tootsuite/mastodon", "firehol/netdata",
-  "eukara/FreeCS", "six-ddc/hss", "stedolan/jq"
+  "eukara/FreeCS", "six-ddc/hss", "stedolan/jq",
+  "atom/teletype"
 ]
 
 export default Datastore
