@@ -77,7 +77,12 @@ const Datastore = [
   "phanan/koel", "CachetHQ/Cachet", "google/tangent",
   "Bogdanp/dramatiq", "tootsuite/mastodon", "firehol/netdata",
   "eukara/FreeCS", "six-ddc/hss", "stedolan/jq",
-  "atom/teletype"
+  "atom/teletype", "moment/luxon", "Juanpe/SkeletonView",
+  "MrNothing/AI-Blocks", "aws/aws-amplify", "kren1/tosheets",
+  "nitin42/React-AR", "leaningtech/cheerp-meta", "ipfs/ipfs",
+  "google/sling", "rhyneav/papercss", "alibaba/Dragonfly",
+  "lucaong/guitarstack", "walkor/Workerman", "mgp25/Instagram-API",
+  "resque/resque"
 ]
 
 export default Datastore
