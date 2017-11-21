@@ -4,6 +4,8 @@ import Navbar from './Navbar'
 import Datastore from './Datastore'
 import ReactPlaceholder from 'react-placeholder';
 import "react-placeholder/lib/reactPlaceholder.css";
+var base64 = require('base-64');
+var utf8 = require('utf8');
 
 
 
@@ -50,7 +52,7 @@ class Project extends React.Component {
         })
         .then((responseJson) => {
           this.setState({
-            textReadme: atob(responseJson["content"]),
+            textReadme: utf8.decode(base64.decode(responseJson["content"])),
             renderReady: true
           });
         })

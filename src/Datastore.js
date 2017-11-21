@@ -76,13 +76,20 @@ const Datastore = [
   "CMU-Perceptual-Computing-Lab/openpose", "uber/RIBs", "xxhomey19/nba-go",
   "phanan/koel", "CachetHQ/Cachet", "google/tangent",
   "Bogdanp/dramatiq", "tootsuite/mastodon", "firehol/netdata",
-  "eukara/FreeCS", "six-ddc/hss", "stedolan/jq",
+  "eukara/FreeCS", "six-ddc/hss", "LordNoteworthy/al-khaser",
   "atom/teletype", "moment/luxon", "Juanpe/SkeletonView",
   "MrNothing/AI-Blocks", "aws/aws-amplify", "kren1/tosheets",
   "nitin42/React-AR", "leaningtech/cheerp-meta", "ipfs/ipfs",
   "google/sling", "rhyneav/papercss", "alibaba/Dragonfly",
   "lucaong/guitarstack", "walkor/Workerman", "mgp25/Instagram-API",
-  "resque/resque"
+  "resque/resque", "GoogleCloudPlatform/container-diff", "facebook/openr",
+  "Ramotion/circle-menu-android", "jarolrod/vim-python-ide", "stedolan/jq",
+  "samyk/proxygambit", "gillham/logic_analyzer", "ryanoasis/nerd-fonts",
+  "picturepan2/spectre", "junegunn/vim-plug", "scrooloose/nerdtree",
+  "carlhuda/janus", "kien/ctrlp.vim", "Kong/kong",
+  "alexazhou/VeryNginx", "snabbco/snabb", "rossumai/nochi",
+  "jakubroztocil/httpie", "apache/incubator-mxnet", "aderyabin/sniffer",
+  "caskroom/homebrew-cask", "tmuxinator/tmuxinator"
 ]
 
 export default Datastore

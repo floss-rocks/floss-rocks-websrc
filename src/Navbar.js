@@ -3,7 +3,7 @@ import React from 'react'
 const Navbar = () => (
   <nav className="navbar is-white">
     <div className="navbar-brand">
-      <a className="navbar-item brand-text" href="../">
+      <a className="navbar-item brand-text" href="/">
         Floss.Rocks
       </a>
       <div className="navbar-burger burger" data-target="navMenu">
