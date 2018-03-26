@@ -117,7 +117,21 @@ const Datastore = [
   "secrary/makin", "carlos8f/zenbot", "smart-fun/XmlToJson",
   "YoKeyword/Fragmentation", "developit/microbundle", "posthtml/posthtml",
   "vimeo/psalm", "magento/magento2", "kanboard/kanboard",
-  "apioo/fusio", "guzzle/guzzle", "Featuretools/featuretools"
+  "apioo/fusio", "guzzle/guzzle", "Featuretools/featuretools",
+  "gka/schnack", "google/boardgame.io", "cirocosta/cr",
+  "peewpw/Invoke-PSImage", "facebook/Docusaurus", "fanout/pushpin",
+  "onivim/oni", "drcmda/react-spring", "shaps80/Peek",
+  "iawia002/annie", "appbaseio/dejavu", "BrainJS/brain.js",
+  "gokrazy/gokrazy", "sindresorhus/fkill-cli", "CloudTask/cloudtask",
+  "envoyproxy/envoy", "carla-simulator/carla", "uglide/RedisDesktopManager",
+  "netheril96/securefs", "ocornut/imgui", "kennethreitz/requests-html",
+  "stackblitz/core", "gyoisamurai/GyoiThon", "kamranahmedse/driver.js",
+  "lutzroeder/Netron", "symfony/messenger", "thephpleague/flysystem",
+  "redmatrix/hubzilla", "djrobstep/migra", "google/upvote",
+  "UltimateHackers/hue", "ceruleanacg/Personae", "trailofbits/algo",
+  "vmware/tern", "thoughtbot/administrate", "opal/opal",
+  "fastlane/ci", "schollz/find3", "fatedier/frp",
+  "mlabouardy/komiser", "monirz/conget"
 ]
 
 export default Datastore
